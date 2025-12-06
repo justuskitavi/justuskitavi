@@ -9,8 +9,8 @@ I'm a Computer Science student and developer passionate about backend engineerin
 
 <!-- Replace the # with your actual links -->
 - **LinkedIn:**  
-- **Twitter / X:**  
-- https://x.com/_kitavi_?t=dTnuAov4xp5A4KiA-sGNBg&s=09  
+- **Twitter / X: https://x.com/_kitavi_?t=dTnuAov4xp5A4KiA-sGNBg&s=09**  
+-  
 - justusalex35@gmail.com
 - https://stackoverflow.com/users/32008108/justus-kitavi
 
