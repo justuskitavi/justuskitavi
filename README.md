@@ -20,6 +20,15 @@ Here are the primary technologies and tools I use:
 | **DevOps/Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 ---
 
+### 📊 Stats
+
+[![Justus's GitHub stats](https://github-readme-stats.vercel.app/api?username=justuskitavi&show_icons=true&theme=dark&hide_title=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justuskitavi&layout=compact&theme=dark&hide_title=true&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
+[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_USERNAME.svg)](https://wakatime.com/@kitavi)
+
+
 ## 🔗 Connect with me
 
 I'm always open to discussing tech, collaborations, or just connecting!
@@ -33,5 +42,4 @@ I'm always open to discussing tech, collaborations, or just connecting!
 | **TikTok** | [![TikTok Badge](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@kitavi_?_r=1&_t=ZM-91zfiAcyo27) |
 | **GitLab** | [![GitLab Badge](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/justuskitavi) |
 | **Stack Overflow** | [![Stack Overflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32008108/justus-kitavi) |
-
 
