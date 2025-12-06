@@ -22,10 +22,6 @@ Here are the primary technologies and tools I use:
 
 ### 📊 Stats
 
-[![Justus's GitHub stats](https://github-readme-stats.vercel.app/api?username=justuskitavi&show_icons=true&theme=dark&hide_title=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justuskitavi&layout=compact&theme=dark&hide_title=true&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-
 [![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_USERNAME.svg)](https://wakatime.com/@kitavi)
 
 
