@@ -20,9 +20,21 @@ Here are the primary technologies and tools I use:
 | **DevOps/Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 ---
 
-### 📊 Stats
+---
 
-[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_USERNAME.svg)](https://wakatime.com/@kitavi)
+## ⚡ WakaTime Coding Activity
+
+<p align="left">
+  <a href="https://wakatime.com/@kitavi" target="_blank">
+    <img src="https://wakatime.com/badge/user/kitavi.svg" alt="WakaTime Stats"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://wakatime.com/@kitavi" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kitavi&layout=compact&theme=tokyonight" alt="WakaTime Detailed Stats"/>
+  </a>
+</p>
 
 
 ## 🔗 Connect with me
