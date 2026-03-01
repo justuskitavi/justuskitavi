@@ -23,18 +23,19 @@ Here are the primary technologies and tools I use:
 ---
 
 ## ⚡ WakaTime Coding Activity
+---
 
-<p align="left">
-  <a href="https://wakatime.com/@kitavi" target="_blank">
-    <img src="https://wakatime.com/badge/user/kitavi.svg" alt="WakaTime Stats"/>
-  </a>
-</p>
+##  WakaTime Coding Activity
 
-<p align="left">
+<h3>
   <a href="https://wakatime.com/@kitavi" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kitavi&layout=compact&theme=tokyonight" alt="WakaTime Detailed Stats"/>
+    View my real-time coding stats on WakaTime
   </a>
-</p>
+</h3>
+
+
+
+
 
 
 ## 🔗 Connect with me
