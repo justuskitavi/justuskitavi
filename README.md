@@ -1,11 +1,12 @@
 # Hi there 👋, I'm Justus Kitavi!
 
-### 🧑‍💻 CS Student | Backend & Web Developer | Architecting Solutions
+### 🧑‍💻 CS Student | Software Engineer | AI/ML & Systems Explorer
 
-I'm a passionate Computer Science student dedicated to building robust and scalable web applications. My current focus is on **Backend development**, **AI and ML** , aiming to solve real-world problems one project at a time. I thrive on learning new technologies and contributing to impactful software.
+I'm a passionate Computer Science student driven by the challenge of designing and building reliable, scalable, and intelligent systems. My work spans **backend and web application development**, **computer networks**, and **artificial intelligence & machine learning**, where I explore how software, data, and infrastructure intersect to solve real-world problems.  
+
+I enjoy working across the stack, from architecting APIs and databases, to understanding network communication and protocols, to experimenting with intelligent systems that can learn and adapt. I'm constantly expanding my toolkit, refining my engineering mindset, and contributing to meaningful, impactful technology.
 
 ---
-
 ## 🛠️ Tech Stack & Toolkit
 
 Here are the primary technologies and tools I use:
