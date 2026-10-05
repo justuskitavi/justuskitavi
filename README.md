@@ -2,7 +2,7 @@
 
 ### 🧑‍💻 Computer Scientist | Software Engineer | AI/ML & Systems Explorer
 
-I'm a passionate Computer Science driven by the challenge of designing and building reliable, scalable, and intelligent systems. My work spans **backend and web application development**, **computer networks**, and **artificial intelligence & machine learning**, where I explore how software, data, and infrastructure intersect to solve real-world problems.  
+I'm a passionate Computer Scientist driven by the challenge of designing and building reliable, scalable, and intelligent systems. My work spans **backend and web application development**, **computer networks**, and **artificial intelligence & machine learning**, where I explore how software, data, and infrastructure intersect to solve real-world problems.  
 
 I enjoy working across the stack, from architecting APIs and databases, to understanding network communication and protocols, to experimenting with intelligent systems that can learn and adapt. I'm constantly expanding my toolkit, refining my engineering mindset, and contributing to meaningful, impactful technology.
 
